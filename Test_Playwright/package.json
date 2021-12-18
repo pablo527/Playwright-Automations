@@ -1,0 +1,19 @@
+{
+  "name": "test_playwright",
+  "version": "1.0.0",
+  "description": "Initiation with playwright testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.15.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.15.1",
+    "allure-playwright": "^2.0.0-beta.13",
+    "dotenv": "^10.0.0"
+  }
+}
